@@ -146,6 +146,7 @@ ul.navbar-flex {
   letter-spacing: 1px;
   color: #000;
 }
+/* Grid-container */
 .skills-grid {
   display: grid;
   gap: 18px;
